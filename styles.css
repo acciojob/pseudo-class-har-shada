@@ -9,7 +9,7 @@
 }
 #container::after{
 	content:"After Element";
-	color:#00f;
+	color:#f00;
 	margin:20px;
-	font-sizeL:20px;
+	font-size:20px;
 }
