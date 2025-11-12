@@ -8,7 +8,7 @@
 	
 }
 #container::after{
-	content:"After Element";
+	content:"";
 	color:#00f;
 	margin:20px;
 	font-sizeL:20px;
